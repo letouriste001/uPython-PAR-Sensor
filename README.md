@@ -26,7 +26,7 @@ On utilisera les coefficient a et b pour calculer les valeur en μE m−2 s−1
 
 Les conditions de test étant mauvais (coffret plexiglas abimer, alimentation non filtrer, etc.) (fig.4).
 
-![Condition de test](/images/condition.jpeg)
+![Condition de test](/images/condition_test.jpeg)
 
 Figure 4 Coffret de test du capteur de PAR premier test effectuer sur Arduino.
 
@@ -34,7 +34,7 @@ Figure 4 Coffret de test du capteur de PAR premier test effectuer sur Arduino.
 
 Après les tests du capteur et dans un but d’amélioration de la lecture des valeurs j’ai réalisé ceci (fig.5) (les PCB sont disponibles sur le dépôt)*[]: 
 
-![PCB](/images/PCB.png)
+![PCB](/images/pcb.png)
 
 Figure 5 Photographie des pcb recto verso. En rouge la configuration de la sensibilité. En vert les pins de connexion et en Bleu une CTN pour correction de la valeur mesurer en fonction de la température.
 
