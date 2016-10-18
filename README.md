@@ -50,10 +50,31 @@ En cour de rédaction
 
 En cour de rédaction
 
+## TODO List
+
+- [] ecrire le Readme
+- [] ecrire le Readme anglais
+- [x] ajouter la licence
+- [] ajouter le PCB
+- [] ajouter la modele de cablage pyboard et carte par
+- [] lister les composant pour PCB
+- [x] Ajouter les commentaires au code
+- [] ajouter les commentaires au code en anglais
+- [x] tester le code V beta
+- [] tester le code V 1.0
+- [] ajouter le code de demonstration
+- [] ameliorer la qualité de la regression lineaire
+- [] verifier la formule de conversion frequence µW / cm2
+- [] ajouter les partie adaptation Pyboard
+- [] ajouter les reference
+
+
 ## English readme
 
 Comming soon
 
 ## Copyright and Licence
 
-En cour de rédaction
+[Licence MIT!](LICENCE.MD)
+Copyright (c) 2016 Christophe AUBERT
+
