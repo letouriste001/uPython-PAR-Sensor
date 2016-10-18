@@ -1,6 +1,6 @@
 Licence MIT
 
-Copyright (c) <2016> <Christophe AUBERT>
+Copyright (c) 2016 Christophe AUBERT
 
 L'autorisation est accordée, gracieusement, à toute personne acquérant une copie
 de cette bibliothèque et des fichiers de documentation associés (la "Bibliothèque"),
@@ -24,7 +24,7 @@ OU AVEC D'AUTRES ÉLÉMENTS DE LA BIBLIOTHÈQUE.
 
 The MIT License
 
-Copyright (c) 2010-2016 Google, Inc. http://angularjs.org
+Copyright (c) 2016 Christophe AUBERT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
