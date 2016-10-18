@@ -52,10 +52,10 @@ En cour de rédaction
 
 ## TODO List
 
-- [] ecrire le Readme
+- [x] ecrire le Readme
 - [] ecrire le Readme anglais
 - [x] ajouter la licence
-- [] ajouter le PCB
+- [x] ajouter le PCB
 - [] ajouter la modele de cablage pyboard et carte par
 - [] lister les composant pour PCB
 - [x] Ajouter les commentaires au code
@@ -68,6 +68,7 @@ En cour de rédaction
 - [] ajouter la partie adaptation Pyboard
 - [] ajouter les references
 - [] corriger l'orthographe
+- [] ajouter le systeme de correction de la valeur mesurer en fonction de la temperature
 
 
 ## English readme
