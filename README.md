@@ -32,7 +32,7 @@ Figure 4 Coffret de test du capteur de PAR premier test effectuer sur Arduino.
 
 ## Design PCB
 
-Après les tests du capteur et dans un but d’amélioration de la lecture des valeurs j’ai réalisé ceci (fig.5) (les PCB sont disponibles sur le dépôt)*[]: 
+Après les tests du capteur et dans un but d’amélioration de la lecture des valeurs j’ai réalisé ceci (fig.5) (le PCB est disponibles sur le dépôt): 
 
 ![PCB](/images/pcb.png)
 
@@ -48,7 +48,16 @@ Composant pour le PCB:
 
 ## Adaptation pour Pyboard
 
-En cour de rédaction
+Le capteur de par fonctionent en 5v et le pyboard en 3v3, on va adapter la tention de sortie a l'aide d'un pont diviseur de tention. (le PCB est disponibles sur le dépôt)
+
+![Pont diviseur](/images/pont_diviseur.png)
+
+Composant pour le PCB:
+
+* Résistance R1 47 kΩ ±1%
+* Résistance R2 82 kΩ ±1%
+* pin header male 3 pin x1
+* pin header male 1 pin x4 optional
 
 ## Code d'exemple
 
@@ -65,7 +74,7 @@ En cour de rédaction
 - [x] ajouter la licence
 - [x] ajouter le PCB
 - [] ajouter la modele de cablage pyboard et carte par
-- [] lister les composant pour PCB
+- [x] lister les composant pour PCB
 - [x] Ajouter les commentaires au code
 - [] ajouter les commentaires au code en anglais
 - [x] tester le code V beta
@@ -73,7 +82,7 @@ En cour de rédaction
 - [] ajouter le code de demonstration
 - [] ameliorer la qualité de la regression lineaire
 - [] verifier la formule de conversion frequence µW / cm2
-- [] ajouter la partie adaptation Pyboard
+- [x] ajouter la partie adaptation Pyboard
 - [] ajouter les references
 - [] corriger l'orthographe
 - [] ajouter le systeme de correction de la valeur mesurer en fonction de la temperature
