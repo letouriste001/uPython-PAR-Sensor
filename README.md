@@ -38,6 +38,14 @@ Après les tests du capteur et dans un but d’amélioration de la lecture des v
 
 Figure 5 Photographie des pcb recto verso. En rouge la configuration de la sensibilité. En vert les pins de connexion et en Bleu une CTN pour correction de la valeur mesurer en fonction de la température.
 
+Composant pour le PCB
+
+* TSL 230 RD x1
+* Condensateur 1 µF (6V min) x1
+* pin header male 2 pin x4
+* pin header male 5 pin x1
+* strap informatique x4
+
 ## Adaptation pour Pyboard
 
 En cour de rédaction
