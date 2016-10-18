@@ -26,7 +26,7 @@ On utilisera les coefficient a et b pour calculer les valeur en μE m−2 s−1
 
 Les conditions de test étant mauvais (coffret plexiglas abimer, alimentation non filtrer, etc.) (fig.4).
 
-![Condition de test](/images/condition_test.jpeg)
+![Condition de test](/images/condition_test.jpg)
 
 Figure 4 Coffret de test du capteur de PAR premier test effectuer sur Arduino.
 
