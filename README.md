@@ -86,6 +86,7 @@ En cour de rédaction
 - [] ajouter les references
 - [] corriger l'orthographe
 - [] ajouter le systeme de correction de la valeur mesurer en fonction de la temperature
+- [] modifier la taille des images
 
 
 ## English readme
