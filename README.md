@@ -95,6 +95,6 @@ Comming soon
 
 ## Copyright and Licence
 
-[Licence MIT!](/LICENSE.md)
+[Licence MIT](/LICENSE.md)
 Copyright (c) 2016 Christophe AUBERT
 
