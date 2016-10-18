@@ -65,8 +65,9 @@ En cour de rédaction
 - [] ajouter le code de demonstration
 - [] ameliorer la qualité de la regression lineaire
 - [] verifier la formule de conversion frequence µW / cm2
-- [] ajouter les partie adaptation Pyboard
-- [] ajouter les reference
+- [] ajouter la partie adaptation Pyboard
+- [] ajouter les references
+- [] corriger l'orthographe
 
 
 ## English readme
