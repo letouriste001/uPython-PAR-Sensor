@@ -78,12 +78,12 @@ En cour de rédaction
 - [x] Ajouter les commentaires au code
 - [] ajouter les commentaires au code en anglais
 - [x] tester le code V beta
-- [] tester le code V 1.0
-- [] ajouter le code de demonstration
+- [x] tester le code V 1.0
+- [x] ajouter le code de demonstration
 - [] ameliorer la qualité de la regression lineaire
 - [] verifier la formule de conversion frequence µW / cm2
 - [x] ajouter la partie adaptation Pyboard
-- [] ajouter les references
+- [x] ajouter les references
 - [] corriger l'orthographe
 - [] ajouter le systeme de correction de la valeur mesurer en fonction de la temperature
 - [] modifier la taille des images

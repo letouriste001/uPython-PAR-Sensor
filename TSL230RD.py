@@ -4,7 +4,7 @@ __author__ = "Christophe AUBERT"
 __copyright__ = "Copyright 2016"
 __credits__ = ["Christophe AUBERT"]
 __license__ = "MIT"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __maintainer__ = "Christophe AUBERT"
 __status__ = "development"
 
@@ -50,7 +50,7 @@ def raw_average(time_average=10):
     :param time_average: Paremetre de temps qui definit la periode de temps sur laquelle on va effectuer la moyenne.
     :return: retourne la moyenne des valeur lue sur une periode de temps definit.
     """
-    
+    sum = 0.0
     # boucle pour sommer les valeurs brutes
     for i in range(0, (time_average - 1)):
         sum += raw_measure()
